@@ -1,4 +1,4 @@
 # apnacollege-practice
 this is my first git repository.
 <br>
-Author - honey singh.
+Author - honeysingh.
